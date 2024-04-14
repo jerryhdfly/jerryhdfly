@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerryhdfly
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning Software testing
+- 🌱 I’m currently learning technique.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
